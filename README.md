@@ -1,2 +1,2 @@
 # Dr.Mintzy
-This is an AI intended for educational purposes.  
+This is an AI written in python intended for educational purposes.  
